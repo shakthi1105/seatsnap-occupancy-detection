@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+runs/
+images/
+datasets/
+*.pt
+output.jpg
+seat_level_occupancy.csv
+.DS_Store
