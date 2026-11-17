@@ -1,0 +1,8 @@
+train: ./images/train
+val: ./images/val
+
+# Number of classes
+nc: 4
+
+# Class names (index 0 = person, 1 = chair, 2 = table, 3 = partition)
+names: ['person', 'chair', 'table', 'partition']
